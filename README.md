@@ -1,1 +1,2 @@
-# Loteria_blockchain_ERC-20
+# DApp
+ Creación de Aplicaciones Descentralizadas
